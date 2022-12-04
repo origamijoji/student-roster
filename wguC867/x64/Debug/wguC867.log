@@ -1,0 +1,10 @@
+﻿  roster.cpp
+E:\Projects\wguC867\wguC867\roster.cpp(5,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects\wguC867\wguC867\roster.cpp(9,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects\wguC867\wguC867\roster.cpp(13,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects\wguC867\wguC867\roster.cpp(17,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects\wguC867\wguC867\roster.cpp(21,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects\wguC867\wguC867\roster.cpp(26,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects\wguC867\wguC867\roster.cpp(31,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects\wguC867\wguC867\roster.cpp(36,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  wguC867.vcxproj -> E:\Projects\wguC867\x64\Debug\wguC867.exe
